@@ -26,19 +26,11 @@ Structure
 |   |--bram_s1.vhd\
 |   |--bram_s2.vhd\
 |   |--bram_s3.vhd\
-|   |--sim.do\
 |   |--tb.vhd\
-|   |--uart.vhd\
-|   |--uart_crypt_blow.vhd\
-|   |--uart_crypt_blow_tb.vhd\
-|   |--wavev1.do\
 |--Final\
 |   |--README.txt\
 |   |   |--Blowfish Implementation using registers (prioritising speed)
 |   |--Blow_dec.vhd\
 |   |--BlowfishHeader2.vhd\
 |   |--ENCtb.vhd\
-|   |--uart.vhd\
-|   |--uart_crypt_blow.vhd\
-|   |--uart_crypt_blow_tb.vhd\
 
