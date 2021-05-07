@@ -17,6 +17,8 @@ Structure
 |   |--blowfish.h\
 |   |--blowfish_test.c\
 |--Blowfish_BRAM\
+|   |--README.txt\
+|   |   |--Blowfish Implementation using BRAM components (conserving area)
 |   |--blowfish_top.vhd\
 |   |--bram_key.vhd\
 |   |--bram_p.vhd\
@@ -31,6 +33,8 @@ Structure
 |   |--uart_crypt_blow_tb.vhd\
 |   |--wavev1.do\
 |--Final\
+|   |--README.txt\
+|   |   |--Blowfish Implementation using registers (prioritising speed)
 |   |--Blow_dec.vhd\
 |   |--BlowfishHeader2.vhd\
 |   |--ENCtb.vhd\
