@@ -10,8 +10,7 @@ Files
 Structure
 ------------
 |--Blowfish_C\
-|&nbsp
-|--README.txt\
+|   |--README.txt\
 |   |   |--C implementation of Blowfish used to verify results\
 |   |--Pi_create.c\
 |   |--blowfish.c\
