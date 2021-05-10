@@ -15,8 +15,7 @@ Key length is selected using input key_length, setting to 00 for 128, 01 for 192
 Key input:
 1. Begin inputting 128-bit key by setting input key_valid to '1' and key_word_in to the most significant 32 bits of the key.
 2. Repeat on subsequent clock cycles with the next most significant 32 bits of the key.
-3. After all 128 bits have been input set key_word_in back to 0 and key_valid to '0', triggering the beginning of key expansion.
-4. Wait for the output signal key_ready to be set to '1', indicating completion of key expansion.
+3. After all 128 bits have been input set key_word_in back to 0 and key_valid to '0', triggering the beginning of subkey generation.
 
 Data input:
 1. Begin inputting data by setting input data_valid to '1' and data_word_in to the most significant 32 bits of the data.
