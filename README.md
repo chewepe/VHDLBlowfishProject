@@ -4,7 +4,7 @@ Files
 -------------
 **Blowfish_C** - C implementation of Blowfish as reference\
 **Blowfish_BRAM** - Blowfish implementation with BRAM\
-**Final** - contains the Blowfish Algorithm implementation without BRAM\
+**Blowfish_Initial** - contains the Blowfish Algorithm implementation without BRAM\
 
 
 Structure
